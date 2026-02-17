@@ -1,0 +1,75 @@
+{
+  "cookies": [
+    {
+      "name": "_octo",
+      "value": "GH1.1.746130271.1771329980",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1802865994.395687,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "logged_in",
+      "value": "no",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": 1802865994.395759,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cpu_bucket",
+      "value": "xlg",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferred_color_mode",
+      "value": "light",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "tz",
+      "value": "Asia%2FKarachi",
+      "domain": ".github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_device_id",
+      "value": "61d37ac71b0617d23be7df0b95728252",
+      "domain": "github.com",
+      "path": "/",
+      "expires": 1802865981.530079,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gh_sess",
+      "value": "iC6ZIM3tkN9qeukgBWeAIba1jw8ifbg%2F0gHV0pj8EKUoZ%2FjzDbtMYellSeZi3JAyhHjROG7uyHpBpjYVCJ6%2F34X7%2B4upqFUTNZ%2FBecuFCKuWwIi3lkD83yyGGNATw%2Bigtb9rsvnm7MPPvLO%2Bkl3b4Csz3e8JMol8qsFIvVA93BJcofTWsCmNivMAFLuopI7CG%2BRLXSXSYv4I0tZ7LshxROl%2B1rEhWdjeh7tv5XIlf2PYezJ4CcoZpXSphMnjuEB7ih5Sx3LFOVD5zbsAzZCoKmvWFG33gykLi%2F3OJq5dZ1HY0xUge568wwko0dtWNF0QD7VjBFPljpYfpTzQXskDKJbspVGf8qGyb4DD1KHOhagAJmO%2BClsgxTfq3zY%2B8GIf3J7G%2Bm5Gee0UcKqpEuv1GD3dfs9urbqPlTju3eVNQ7ck0egLzEZH3GxbY6DHQEXenOaqvfjLkkmgYFn6NgOEM%2F88VwlO0HNFjGH7Lyv0U618Vtbx--goX6Lt70Aw153DHl--%2FDanbeLWLZb1mT5u0IR4jw%3D%3D",
+      "domain": "github.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

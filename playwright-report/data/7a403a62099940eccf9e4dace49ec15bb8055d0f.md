@@ -1,0 +1,50 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - generic [ref=e14]:
+        - img [ref=e17]
+        - generic [ref=e19]:
+          - heading "Two-factor authentication" [level=1] [ref=e20]
+          - paragraph [ref=e21]: Enter the code from your two-factor authentication app or browser extension below.
+      - generic [ref=e22]:
+        - generic [ref=e25]:
+          - button "Dismiss this message" [active] [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+          - alert [ref=e29]: Two-factor authentication failed.
+        - generic [ref=e32]:
+          - generic [ref=e33]: Enter the verification code
+          - textbox "Enter the verification code" [ref=e34]:
+            - /placeholder: XXXXXX
+            - text: "955299"
+          - button "Verify" [ref=e35] [cursor=pointer]
+        - button "More options" [ref=e38] [cursor=pointer]:
+          - generic [ref=e41]:
+            - text: More options
+            - img [ref=e42]
+  - contentinfo [ref=e44]:
+    - list [ref=e45]:
+      - listitem [ref=e46]:
+        - link "Terms" [ref=e47] [cursor=pointer]:
+          - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+      - listitem [ref=e48]:
+        - link "Privacy" [ref=e49] [cursor=pointer]:
+          - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+      - listitem [ref=e50]:
+        - link "Docs" [ref=e51] [cursor=pointer]:
+          - /url: https://docs.github.com
+      - listitem [ref=e52]:
+        - link "Contact GitHub Support" [ref=e53] [cursor=pointer]:
+          - /url: https://support.github.com
+      - listitem [ref=e54]:
+        - button "Manage cookies" [ref=e56] [cursor=pointer]
+      - listitem [ref=e57]:
+        - button "Do not share my personal information" [ref=e59] [cursor=pointer]
+```
